@@ -1,0 +1,5 @@
+Aquí van las fotos y videos de la página.
+
+Envíaselos a Claude en el chat y él los colocará en esta carpeta
+y conectará cada uno con su momento. Luego solo vuelves a subir
+la carpeta a Vercel (o a GitHub) y la página se actualiza.
